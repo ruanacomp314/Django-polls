@@ -10,7 +10,7 @@ This project is based on the Django tutorial.
 ## Setup
 
 Clone the repo
-git clone <repo link>
+git clone https://github.com/ruanacomp314/Django-polls
 
 Install packages
 pip install -r requirements.txt
